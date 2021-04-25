@@ -1,5 +1,8 @@
 # tanchishe
+你好，世界！
+
 hello word !
+
 this is tanchishe
 fmt.println("hello word!")
 func main(){
@@ -9,3 +12,8 @@ func main(){
 	}
 
 }
+
+
+
+
+
